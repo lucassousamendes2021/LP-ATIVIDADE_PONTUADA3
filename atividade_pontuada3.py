@@ -1,9 +1,6 @@
 import os 
 os.system("cls")
 
-
-
-
 avioes = [0, 0, 0, 0]     
 assentos = [0, 0, 0, 0]  
 reservas = []             
